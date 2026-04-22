@@ -22,7 +22,14 @@ The dataset includes:
 - Quantity and pricing
 
 ## 📸 Dashboard Preview
+<img width="963" height="544" alt="image" src="https://github.com/user-attachments/assets/f7480af7-5222-4270-80ee-bf77967ce4dc" />
+
 <img width="1040" height="620" alt="image" src="https://github.com/user-attachments/assets/c9d9d63e-49cf-48cf-9fef-79ff0c69f0b2" />
+
+<img width="966" height="601" alt="image" src="https://github.com/user-attachments/assets/efd3be20-c841-475b-9159-ad2695d67d68" />
+
+<img width="957" height="541" alt="image" src="https://github.com/user-attachments/assets/f69554f4-71d5-43cc-929f-eb5418c8edfd" />
+
 
 
 ## 🔍 Key Insights
